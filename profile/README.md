@@ -20,7 +20,6 @@ ecosystems and emergent behavior.
 
 - [viron](https://github.com/Preponderous-Software/viron) — a REST service for managing environments, grids, locations and entities.
 - [py_env_lib](https://github.com/Preponderous-Software/py_env_lib) and [env-lib-cpp](https://github.com/Preponderous-Software/env-lib-cpp) — base classes for two-dimensional virtual worlds in Python and C++.
-- [patchwork](https://github.com/Preponderous-Software/patchwork) — a lightweight Python tool for visualizing 2D environments.
 
 **Websites**
 
